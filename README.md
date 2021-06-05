@@ -4,17 +4,17 @@
 Certificates
 ============
 Data Base : 
-  Oracle PL/SQL
+  Oracle PL/SQL | 
 
 Visualization : 
-  Power BI essentials
+  Power BI essentials | 
 
 Cloud : 
-  Azure Fundemantals (AZ900)
+  Azure Fundemantals (AZ900) | 
 
 AI/ML: 
-  AI for Everyone
-  Microsoft AI Classroo series
+  AI for Everyone | 
+  Microsoft AI Classroom series
 
 Others
-  IBMi systems Magazine : FreshFace 2020
+  IBMi systems Magazine : FreshFace 2020 | 
